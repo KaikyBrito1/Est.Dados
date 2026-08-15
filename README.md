@@ -1,9 +1,5 @@
 INSTRUÇÕES PARA EXUCUÇÃO DO PROJETO!!
-Links:
 
-GitHub: https://github.com/KaikyBrito1/Est.Dados
-
-Vídeo do trabalho: https://youtu.be/g_6D0pQ4YDc
 
 Como rodar os códigos:
 
